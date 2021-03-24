@@ -48,6 +48,12 @@
             <li class="active"><a href="http://www.jquery4u.com/">Function Demos</a></li>
             <li><a href="http://www.jquery4u.com/plugins/">Plugins</a></li>
           </ul>
+		<ul class="nav">
+            <li><a href="http://www.jquery4u.com/">Blog</a></li>
+            <li><a href="http://www.jquery4u.com/demos/">Showcase</a></li>
+            <li class="active"><a href="http://www.jquery4u.com/">Function Demos</a></li>
+            <li><a href="http://www.jquery4u.com/plugins/">Plugins</a></li>
+          </ul>
           <!-- Social  -->
           <p class="pull-right social-icons">
 			<a target="_blank" href="http://facebook.com/pages/Jquery4u/140918675956744" title="Facebook Fans"><img src="http://www.jquery4u.com/images/facebook.png" alt="Join us on facebook"></a> <a target="_blank" href="http://twitter.com/jquery4u" title="Twitter Followers"><img src="http://www.jquery4u.com/images/twitter.png" alt="Follow us on Twitter"></a> <a target="_blank" href="http://www.jquery4u.com/feed/rss/" title="RSS Subscribers"><img alt="Subscribe to our RSS Feed" src="http://www.jquery4u.com/images/rss.png"></a>
